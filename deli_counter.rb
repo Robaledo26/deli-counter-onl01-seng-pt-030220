@@ -15,6 +15,6 @@ def tale_a_number(katz_deli)
   counter = 1
   katz_deli.each do |customer|
   line_positions << "#{number}. #{customer}"
-  number += 1
+  counter += 1
 end
 end
