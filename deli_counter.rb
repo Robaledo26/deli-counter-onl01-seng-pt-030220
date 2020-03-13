@@ -6,6 +6,7 @@
 
 def line_method(katz_deli)
 line = []
-if line.
+if line.empty
+  phrase "the line iscurrently empty"
 end
 
