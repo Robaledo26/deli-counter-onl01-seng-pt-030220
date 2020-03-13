@@ -14,4 +14,8 @@ else
   line_positions << "#{number}. #{customer}"
   counter += 1
 end
+    puts "The line is currently: #{line_positions.join(" ")}"
+  end
 end
+
+
