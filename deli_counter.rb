@@ -10,3 +10,6 @@ def line(katz_deli)
     puts "The line is currently empty."
 end
 end
+
+def tale_a_number
+  
